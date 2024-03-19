@@ -1,6 +1,6 @@
 # Face-Mask-recognition
 This project aimed to develop a real-time face mask detection system using computer vision and deep learning techniques.
-ntroduction
+Introduction:
 The COVID-19 pandemic has highlighted the importance of face masks in preventing the
 spread of respiratory viruses. Face mask detection systems have emerged as a potential tool
 for enforcing mask-wearing in public spaces and ensuring public safety. This project aimed to
